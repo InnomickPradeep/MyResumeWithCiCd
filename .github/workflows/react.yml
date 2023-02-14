@@ -27,7 +27,7 @@ jobs:
         ls
         cd ${GITHUB_WORKSPACE}
         ls
-        npm install
+        npm install --legacy-peer-deps
         ls
         
     - name: Building
