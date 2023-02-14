@@ -87,7 +87,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                    <button className="submit">Submit</button>
+                    <button className="submit"><a href="https://previews.123rf.com/images/varijanta/varijanta1605/varijanta160500049/56755970-thin-line-flat-design-banner-for-under-construction-web-page-website-development-process-coming-soon.jpg">Submit</a></button>
                     <span id="image-loader">
                       <img alt="" src="images/loader.gif" />
                     </span>
