@@ -118,14 +118,18 @@ class Contact extends Component {
               </div>
 
               <div className="widget widget_tweets">
-                <h4 className="widget-title">Latest Tweets</h4>
+                <h4 className="widget-title">Cloud Updates</h4>
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                    AWS is constantly adding new capabilities so 
+                    you can leverage the latest technologies to 
+                    experiment and innovate more quickly. 
+                    What's New posts show how we are doing just that, 
+                    providing a brief overview of all AWS service, 
+                    feature, and region expansion announcements 
+                    as they are released.
+                      <a href="./">https://aws.amazon.com/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=*all</a>
                     </span>
                     <b>
                       <a href="./">2 Days Ago</a>
@@ -133,11 +137,11 @@ class Contact extends Component {
                   </li>
                   <li>
                     <span>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Azure pleased to announce the general availability
+                      of Azure Red Hat OpenShift on Microsoft Azure Government, 
+                      combining world-class Azure infrastructure with a leading 
+                      enterprise Kubernetes platform.
+                      <a href="./">https://azure.microsoft.com/en-in/blog/topics/announcements/</a>
                     </span>
                     <b>
                       <a href="./">3 Days Ago</a>
