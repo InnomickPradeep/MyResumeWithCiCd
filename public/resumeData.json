@@ -16,11 +16,11 @@
       "zip": "522201"
     },
     "website": "http://intel-demo.online",
-    "resumedownload":"No Source for now",
+    "resumedownload":"https://drive.google.com/file/d/128dHcukidkm94BKgDzNSRXMym0LFZwxo/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/",
         "className":"fa fa-facebook"
       },
       {
@@ -30,23 +30,23 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/mohammad-raheman-544a811a0",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/Athiqur-r",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"In Journey to Cloud Architect",
     "education":[
       {
         "school":"Vasireddy Venkatadri Institute of Technology",
