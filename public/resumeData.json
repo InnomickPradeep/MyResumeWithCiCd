@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name":"Raheman-Giant Project",
+    "description":"I am a DevOps engineer. This project is a resume template that can be used as the project home page or resume page",
+    "image":"raheman.jpg",
+    "bio":"Hello All, My Name is Mohammad Athiqur Raheman. I am from Tenali, Andhra Pradesh. We are four people in our family. Father is working as Private employee in RDO office, Sister Married & Mother is a home-maker. Currently working as Cloud Architect.",
+    "contactmessage":"Hi There, Develop your skills asap",
+    "email": "wraheman7864@gmail.com",
+    "phone": "+917901001837",
+    "github":"https://github.com/Athiqur-r/MyResume",
+    "project":"MyResume",
+    "address":{
+      "street":"Tadiparthi Veeraiah Street",
+      "city":"Tenali",
+      "state":"Andhra Pradesh",
+      "zip": "522201"
+    },
+    "website": "http://intel-demo.online",
+    "resumedownload":"No Source for now",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Vasireddy Venkatadri Institute of Technology",
+        "degree":"Computer Science Engineering",
+        "graduated":"April 2018",
+        "description":"Learned and done hands-on with Java, OOPS Concepts, Basic HTML,CSS&JS with one project on predictive analysis on Stock Market"
+      },
+      {
+        "school":"Sri Chaitanya Junior College",
+        "degree":"MPC",
+        "graduated":"March 2013",
+        "description":"Done Degree on Mathematics, Physics & Chemistry with some local languages like Hindi."
+      }
+    ],
+    "work":[
+      {
+        "company":"Innomick Technology",
+        "title":"DevOps Engineer",
+        "years":"August 2022 - Till Present",
+        "description":"Worked on NestJs, NodeJs, TypeScript, TypeORM, AWS, Github, Docker, CI CD & ReactJs"
+      },
+      {
+        "company":"Capgemini Technological Services India Limited",
+        "title":"Systems Analyst",
+        "years":"January 2019 - August 2019",
+        "description":"Worked as Systems Analyst with basic Linux administration."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"AWS",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"20%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"CI-CD",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"50%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"IDMT",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"EO4ARM",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"ZADMS",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"SADMS",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"ROCHE",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"HRMS",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Release Recovery",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Universal American",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
