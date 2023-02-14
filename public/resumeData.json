@@ -110,75 +110,63 @@
     "projects": [
       {
         "title":"IDMT",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"International Drought Management Tool",
         "image":"project.jpeg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://cyberhoot.com/wp-content/uploads/2019/12/access_denied.png"
       },
       {
         "title":"EO4ARM",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"Earth observation for Agricultural Risk Management",
+        "image":"project.jpeg",
+        "url":"https://cyberhoot.com/wp-content/uploads/2019/12/access_denied.png"
       },
       {
         "title":"ZADMS",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "category":"Zambia Drought Management System",
+        "image":"project.jpeg",
+        "url":"https://cyberhoot.com/wp-content/uploads/2019/12/access_denied.png"
       },
       {
         "title":"SADMS",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"South Asia Drought Management System",
+        "image":"project.jpeg",
+        "url":"https://cyberhoot.com/wp-content/uploads/2019/12/access_denied.png"
       },
       {
         "title":"ROCHE",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "category":"Roche Data Mesh Canvas",
+        "image":"project.jpeg",
+        "url":"https://cyberhoot.com/wp-content/uploads/2019/12/access_denied.png"
       },
       {
         "title":"HRMS",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "category":"Human Resource Management System - Timesheet",
+        "image":"project.jpeg",
+        "url":"https://cyberhoot.com/wp-content/uploads/2019/12/access_denied.png"
       },
       {
         "title":"Release Recovery",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"US Application to order Drugs(Medicines) Online",
+        "image":"project.jpeg",
+        "url":"https://cyberhoot.com/wp-content/uploads/2019/12/access_denied.png"
       },
       {
         "title":"Universal American",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "category":"Support Project for K2",
+        "image":"project.jpeg",
+        "url":"https://cyberhoot.com/wp-content/uploads/2019/12/access_denied.png"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
+        "title":"My Resume Website",
         "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"project.jpeg",
+        "url":"https://intel-demo.online"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Guestio",
+        "category":"Hotel Management Application",
+        "image":"project.jpeg",
+        "url":"https://cyberhoot.com/wp-content/uploads/2019/12/access_denied.png"
       }
     ]
   }
