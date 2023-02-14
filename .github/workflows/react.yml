@@ -1,0 +1,48 @@
+name: REACT-BUILD
+on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'debug'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+  
+jobs:
+  build-push-gcr:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Install Dependencies
+      run: |
+        pwd
+        ls
+        cd ${GITHUB_WORKSPACE}
+        ls
+        npm install
+        ls
+        
+    - name: Building
+      run: |
+        cd ${GITHUB_WORKSPACE}
+        npm run build
+        pwd
+        ls ${GITHUB_WORKSPACE}
+        pwd
+        
+    - name: Deploy to my EC2 instance
+      uses: easingthemes/ssh-deploy@v2.1.5
+      env:
+        SSH_PRIVATE_KEY: ${{ secrets.EC2_SSH_KEY }}
+        SOURCE: "./build/*"
+        REMOTE_HOST: "ec2-15-207-254-17.ap-south-1.compute.amazonaws.com"
+        REMOTE_USER: "ubuntu"
+        TARGET: "/var/www/temp_build"
